@@ -24,7 +24,7 @@ def predict():
 
     output = round(prediction[0], 2)
 
-    return render_template('index.html', prediction_text='Наличие заболевания: да(1), нет(0) {}'.format(output))
+    return render_template('index.html', prediction_text='Diagnosing Heart Disease: yes(1), no(0) {}'.format(output))
 
 if __name__ == "__main__":
     app.run()
