@@ -1,4 +1,4 @@
-# Model_pipelines_2
+# Diagnosing_Heart_Disease(pipelines)
 
 Link:
-https://flask-salary-2.herokuapp.com/
+https://diagnosing-heart-disease.herokuapp.com/
